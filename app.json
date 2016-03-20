@@ -1,0 +1,6 @@
+{
+  "name": "rest ad webservice",
+  "description": "webova sluzba v restu",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
